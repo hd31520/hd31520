@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/JjXTL8Rb/White-Blue-Professional-Website-Developer-Linked-In-Banner-1-min.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/JjXTL8Rb/White-Blue-Professional-Website-Developer-Linked-In-Banner-1-min.png" alt="Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 # 👋 Hi, I'm Md. Hridoy Sheikh
@@ -12,7 +12,8 @@
 ---
 
 ## 💡 About Me
-I am a motivated **Full-Stack Developer** with expertise in **MERN Stack** and hands-on experience building responsive, secure, and user-friendly applications. I learn new technologies quickly and apply them creatively and logically to real-world projects.
+I am a motivated **Full-Stack Developer** with expertise in the **MERN Stack** and hands-on experience building responsive, secure, and user-friendly applications.  
+I love to learn new technologies and apply them creatively to solve real-world problems.
 
 ---
 
@@ -26,6 +27,7 @@ I am a motivated **Full-Stack Developer** with expertise in **MERN Stack** and h
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN_UI-111827?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
@@ -40,6 +42,7 @@ I am a motivated **Full-Stack Developer** with expertise in **MERN Stack** and h
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/CORS-005571?style=for-the-badge" />
@@ -62,13 +65,15 @@ I am a motivated **Full-Stack Developer** with expertise in **MERN Stack** and h
 - Pet listing with **infinite scroll, search & filters**  
 - Donation campaigns with **Stripe integration**  
 - Protected routes & responsive design  
-🔗 **Live Demo:** https://adop-a3a82.web.app/
+🔗 **Live Demo:** [adop-a3a82.web.app](https://adop-a3a82.web.app/)
+
+---
 
 ### 🍽 Restaurant Management System
 - CRUD operations for menu and orders  
 - Firebase Auth + JWT security  
 - Dark/Light theme toggle & responsive UI  
-🔗 **Live Demo:** https://petuk-22f6f.web.app/
+🔗 **Live Demo:** [petuk-22f6f.web.app](https://petuk-22f6f.web.app/)
 
 ---
 
