@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/J4Fx3x8/White-Blue-Professional-Website-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/J4Fx3x8/White-Blue-Professional-Website-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Md. Hridoy Sheikh
